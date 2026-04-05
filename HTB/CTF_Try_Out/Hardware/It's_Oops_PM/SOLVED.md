@@ -18,14 +18,14 @@ The input must be a binary signal of 16 bits
 
 Input   : 
 ```
-5. Open backdoor.vhdl
+5. Open <a href="https://github.com/RangS-1/CTF-Write-Ups/blob/main/HTB/CTF_Try_Out/Hardware/It's_Oops_PM/Scenario_Files/backdoor.vhdl">backdoor.vhdl</a>
 6. You see there's binary code in line 13 (i got 1111111111101001)
 7. If you input the binary, you will get output:
 ```
 Input   : 1111111111101001
 Output  : 0110001111100001
 
-You triggered the backdoor here is the flag: HBT{flag}
+You triggered the backdoor here is the flag: HTB{flag}
 ```
 
 ## Flag
