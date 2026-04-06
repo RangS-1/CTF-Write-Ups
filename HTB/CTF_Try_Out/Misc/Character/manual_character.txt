@@ -1,0 +1,212 @@
+hich character (index) of the flag do you want? Enter an index: 0
+Character at Index 0: H
+Which character (index) of the flag do you want? Enter an index: 1
+Character at Index 1: T
+Which character (index) of the flag do you want? Enter an index: 2
+Character at Index 2: B
+Which character (index) of the flag do you want? Enter an index: 3
+Character at Index 3: {
+4Which character (index) of the flag do you want? Enter an index: 
+Character at Index 4: t
+Which character (index) of the flag do you want? Enter an index: 5
+Character at Index 5: H
+Which character (index) of the flag do you want? Enter an index: 6
+Character at Index 6: 1
+Which character (index) of the flag do you want? Enter an index: 7
+Character at Index 7: 5
+8
+Which character (index) of the flag do you want? Enter an index: Character at Index 8: _
+Which character (index) of the flag do you want? Enter an index: 9
+Character at Index 9: 1
+Which character (index) of the flag do you want? Enter an index: 0
+Character at Index 0: H
+Which character (index) of the flag do you want? Enter an index: 10
+Character at Index 10: s
+Which character (index) of the flag do you want? Enter an index: 11
+Character at Index 11: _
+Which character (index) of the flag do you want? Enter an index: 12
+Character at Index 12: 4
+Which character (index) of the flag do you want? Enter an index: 13
+Character at Index 13: _
+Which character (index) of the flag do you want? Enter an index: 14
+Character at Index 14: r
+Which character (index) of the flag do you want? Enter an index: 15
+Character at Index 15: 3
+Which character (index) of the flag do you want? Enter an index: 16
+Character at Index 16: a
+Which character (index) of the flag do you want? Enter an index: 17
+Character at Index 17: L
+Which character (index) of the flag do you want? Enter an index: 18
+Character at Index 18: l
+Which character (index) of the flag do you want? Enter an index: 19
+Character at Index 19: y
+Which character (index) of the flag do you want? Enter an index: 20
+Character at Index 20: _
+Which character (index) of the flag do you want? Enter an index: 21
+Character at Index 21: l
+Which character (index) of the flag do you want? Enter an index: 22
+Character at Index 22: 0
+Which character (index) of the flag do you want? Enter an index: 23
+Character at Index 23: n
+Which character (index) of the flag do you want? Enter an index: 24
+Character at Index 24: G
+Which character (index) of the flag do you want? Enter an index: 25
+Character at Index 25: _
+Which character (index) of the flag do you want? Enter an index: 26
+Character at Index 26: f
+Which character (index) of the flag do you want? Enter an index: 27
+Character at Index 27: L
+Which character (index) of the flag do you want? Enter an index: 28
+Character at Index 28: 4
+Which character (index) of the flag do you want? Enter an index: 29
+Character at Index 29: g
+Which character (index) of the flag do you want? Enter an index: 30
+Character at Index 30: _
+Which character (index) of the flag do you want? Enter an index: 31
+Character at Index 31: i
+Which character (index) of the flag do you want? Enter an index: 32
+Character at Index 32: _
+Which character (index) of the flag do you want? Enter an index: 33
+Character at Index 33: h
+Which character (index) of the flag do you want? Enter an index: 34
+Character at Index 34: 0
+Which character (index) of the flag do you want? Enter an index: 35
+Character at Index 35: p
+Which character (index) of the flag do you want? Enter an index: 36
+Character at Index 36: 3
+Which character (index) of the flag do you want? Enter an index: 37
+Character at Index 37: _
+Which character (index) of the flag do you want? Enter an index: 38
+Character at Index 38: f
+Which character (index) of the flag do you want? Enter an index: 39
+Character at Index 39: 0
+Which character (index) of the flag do you want? Enter an index: 40
+Character at Index 40: r
+Which character (index) of the flag do you want? Enter an index: 41
+Character at Index 41: _
+Which character (index) of the flag do you want? Enter an index: 42
+Character at Index 42: y
+Which character (index) of the flag do you want? Enter an index: 43
+Character at Index 43: 0
+Which character (index) of the flag do you want? Enter an index: 44
+Character at Index 44: U
+Which character (index) of the flag do you want? Enter an index: 45
+Character at Index 45: r
+Which character (index) of the flag do you want? Enter an index: 46
+Character at Index 46: _
+Which character (index) of the flag do you want? Enter an index: 47
+Character at Index 47: s
+Which character (index) of the flag do you want? Enter an index: 48
+Character at Index 48: 4
+Which character (index) of the flag do you want? Enter an index: 49
+Character at Index 49: k
+Which character (index) of the flag do you want? Enter an index: 50
+Character at Index 50: 3
+Which character (index) of the flag do you want? Enter an index: 51
+Character at Index 51: _
+Which character (index) of the flag do you want? Enter an index: 52
+Character at Index 52: t
+Which character (index) of the flag do you want? Enter an index: 53
+Character at Index 53: H
+Which character (index) of the flag do you want? Enter an index: 54
+Character at Index 54: 4
+Which character (index) of the flag do you want? Enter an index: 55
+Character at Index 55: t
+Which character (index) of the flag do you want? Enter an index: 56
+Character at Index 56: _
+Which character (index) of the flag do you want? Enter an index: 57
+Character at Index 57: y
+Which character (index) of the flag do you want? Enter an index: 58
+Character at Index 58: 0
+Which character (index) of the flag do you want? Enter an index: 59
+Character at Index 59: U
+Which character (index) of the flag do you want? Enter an index: 60
+Character at Index 60: _
+Which character (index) of the flag do you want? Enter an index: 61
+Character at Index 61: s
+Which character (index) of the flag do you want? Enter an index: 62
+Character at Index 62: C
+Which character (index) of the flag do you want? Enter an index: 63
+Character at Index 63: r
+Which character (index) of the flag do you want? Enter an index: 64
+Character at Index 64: 1
+Which character (index) of the flag do you want? Enter an index: 65
+Character at Index 65: p
+Which character (index) of the flag do you want? Enter an index: 66
+Character at Index 66: T
+Which character (index) of the flag do you want? Enter an index: 67
+Character at Index 67: E
+Which character (index) of the flag do you want? Enter an index: 68
+Character at Index 68: d
+Which character (index) of the flag do you want? Enter an index: 69
+Character at Index 69: _
+Which character (index) of the flag do you want? Enter an index: 70
+Character at Index 70: t
+Which character (index) of the flag do you want? Enter an index: 71
+Character at Index 71: H
+Which character (index) of the flag do you want? Enter an index: 72
+Character at Index 72: 1
+Which character (index) of the flag do you want? Enter an index: 73
+Character at Index 73: s
+Which character (index) of the flag do you want? Enter an index: 74
+Character at Index 74: _
+Which character (index) of the flag do you want? Enter an index: 75
+Character at Index 75: o
+Which character (index) of the flag do you want? Enter an index: 76
+Character at Index 76: R
+Which character (index) of the flag do you want? Enter an index: 77
+Character at Index 77: _
+Which character (index) of the flag do you want? Enter an index: 78
+Character at Index 78: e
+Which character (index) of the flag do you want? Enter an index: 79
+Character at Index 79: l
+Which character (index) of the flag do you want? Enter an index: 80
+Character at Index 80: s
+Which character (index) of the flag do you want? Enter an index: 81
+Character at Index 81: 3
+Which character (index) of the flag do you want? Enter an index: 82
+Character at Index 82: _
+Which character (index) of the flag do you want? Enter an index: 83
+Character at Index 83: i
+Which character (index) of the flag do you want? Enter an index: 84
+Character at Index 84: T
+Which character (index) of the flag do you want? Enter an index: 85
+Character at Index 85: _
+Which character (index) of the flag do you want? Enter an index: 86
+Character at Index 86: t
+Which character (index) of the flag do you want? Enter an index: 87
+Character at Index 87: 0
+Which character (index) of the flag do you want? Enter an index: 88
+Character at Index 88: o
+Which character (index) of the flag do you want? Enter an index: 89
+Character at Index 89: K
+Which character (index) of the flag do you want? Enter an index: 90
+Character at Index 90: _
+Which character (index) of the flag do you want? Enter an index: 91
+Character at Index 91: q
+Which character (index) of the flag do you want? Enter an index: 92
+Character at Index 92: U
+Which character (index) of the flag do you want? Enter an index: 93
+Character at Index 93: 1
+Which character (index) of the flag do you want? Enter an index: 94
+Character at Index 94: t
+Which character (index) of the flag do you want? Enter an index: 95
+Character at Index 95: 3
+Which character (index) of the flag do you want? Enter an index: 96
+Character at Index 96: _
+Which character (index) of the flag do you want? Enter an index: 97
+Character at Index 97: l
+Which character (index) of the flag do you want? Enter an index: 98
+Character at Index 98: 0
+Which character (index) of the flag do you want? Enter an index: 99
+Character at Index 99: n
+Which character (index) of the flag do you want? Enter an index: 100
+Character at Index 100: g
+Which character (index) of the flag do you want? Enter an index: 101
+Character at Index 101: !
+Which character (index) of the flag do you want? Enter an index: 102
+Character at Index 102: !
+Which character (index) of the flag do you want? Enter an index: 1
+Character at Index 1: T
+Which character (index) of the flag do you want? Enter an index: 103
+Character at Index 103: }
