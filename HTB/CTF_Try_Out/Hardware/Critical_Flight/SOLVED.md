@@ -6,11 +6,14 @@
 
 ## Requirements
 1. Download the Scenario Files
+2. Install Kicad 10.0
 
 ## Solutions
-
-```
-```
+1. Open Kicad Applications then click gerber viewer
+2. Click on file then choose Open Gerber Plot File(s)
+3. Choose all file in flight_control_board
+4. On the right side, Uncheck all of the layer except HadesMicro-B_Cu.gbr and HadesMicro-ln1_Cu.gbr
+5. Arrange the flag and you got it!
 
 ## Flag
-HTB{}
+HTB{533_7h3_1nn32_w02k1n95_0f_313c720n1c5#$@}
